@@ -1,4 +1,4 @@
-# lojaroupass
+# Projeto Loja de roupas
 Gerenciamento de loja roupas
 Modelo de negócio: Sistema de Gerenciamento de Vendas de Loja de Roupas
 
